@@ -78,11 +78,12 @@ st.markdown("""
 # 분류에 따라 다른 콘텐츠 관리
 content_data = {
     labels[0]: {
-        'images': [
-            "https://via.placeholder.com/300?text=Label1_Image1",
-            "https://via.placeholder.com/300?text=Label1_Image2",
-            "https://via.placeholder.com/300?text=Label1_Image3"
+         'images': [
+            "https://ibb.co/QmqL5s3",
+            "https://ibb.co/9smb0Nj",
+            "https://ibb.co/gJ6Fwyr",
         ],
+             
         'videos': [
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
@@ -126,6 +127,57 @@ content_data = {
             "뽀짝뀨!!",
             "복복복복",
             "기여웡ㅇㅏㅇ앙앙앙앙"
+        ]
+    },
+      labels[3]: {
+        'images': [
+            "https://via.placeholder.com/300?text=Label1_Image1",
+            "https://via.placeholder.com/300?text=Label1_Image2",
+            "https://via.placeholder.com/300?text=Label1_Image3"
+        ],
+        'videos': [
+            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
+            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+        ],
+        'texts': [
+            "바둑돌멩이",
+            "바둑이",
+            "빠뚜끼"
+        ]
+    },
+      labels[4]: {
+        'images': [
+            "https://via.placeholder.com/300?text=Label1_Image1",
+            "https://via.placeholder.com/300?text=Label1_Image2",
+            "https://via.placeholder.com/300?text=Label1_Image3"
+        ],
+        'videos': [
+            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
+            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+        ],
+        'texts': [
+            "바둑돌멩이",
+            "바둑이",
+            "빠뚜끼"
+        ]
+    },
+      labels[5]: {
+        'images': [
+            "https://via.placeholder.com/300?text=Label1_Image1",
+            "https://via.placeholder.com/300?text=Label1_Image2",
+            "https://via.placeholder.com/300?text=Label1_Image3"
+        ],
+        'videos': [
+            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
+            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+        ],
+        'texts': [
+            "바둑돌멩이",
+            "바둑이",
+            "빠뚜끼"
         ]
     }
 }
