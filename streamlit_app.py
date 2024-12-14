@@ -6,7 +6,7 @@ from PIL import Image
 import gdown
 
 # Google Drive 파일 ID
-file_id = '1F8gQOa5vutq6JLlFZ92XaB3H3EKcy5It'
+file_id = '15YaKTONZlz1bSJKaQJs'
 
 
 # Google Drive에서 파일 다운로드 함수
