@@ -85,26 +85,26 @@ content_data = {
         ],
              
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://youtu.be/gxDmLEpEqAU?feature=shared",
+            "https://youtu.be/HpY_tx-o_wY?feature=shared",
+            "https://youtu.be/IPFpLwKiHtY?feature=shared"
         ],
         'texts': [
-            "바둑돌멩이",
+            "수질관리: 물은 일반적으로 매주 30% 정도의 물을 교체하는 것이 좋다. 물의 온도는 24도에서 26도 사이가 적절하며, pH는 6.8에서 7.8 사이를 유지해야 한다.",
             "바둑이",
             "빠뚜끼"
         ]
     },
     labels[1]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label2_Image1",
-            "https://via.placeholder.com/300?text=Label2_Image2",
-            "https://via.placeholder.com/300?text=Label2_Image3"
+            "https://i.ibb.co/Xysk8dc/2.jpg",
+            "https://i.ibb.co/PCZRRQk/1.jpg",
+            "https://i.ibb.co/NLkPPnG/image.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+            "https://youtu.be/a2FQRmWYaWo?feature=shared",
+            "https://youtu.be/PPK-skmAqJI?feature=shared",
+            "https://youtu.be/fGuIfABYimc?feature=shared"
         ],
         'texts': [
             "스누피조아",
@@ -114,14 +114,14 @@ content_data = {
     },
     labels[2]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label3_Image1",
-            "https://via.placeholder.com/300?text=Label3_Image2",
-            "https://via.placeholder.com/300?text=Label3_Image3"
+            "https://i.ibb.co/X3zPPhX/2.jpg",
+            "https://i.ibb.co/Wg0dwX1/1.jpg",
+            "https://i.ibb.co/mqPrL6Y/image.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://youtu.be/j3BZ8qEi8L4?feature=shared",
+            "https://youtu.be/WB524aPvlvw?feature=shared",
+            "https://youtu.be/-wTqziGbiLM?feature=shared"
         ],
         'texts': [
             "뽀짝뀨!!",
@@ -131,14 +131,14 @@ content_data = {
     },
       labels[3]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label1_Image1",
-            "https://via.placeholder.com/300?text=Label1_Image2",
-            "https://via.placeholder.com/300?text=Label1_Image3"
+            "https://i.ibb.co/x3BydvS/2.jpg",
+            "https://i.ibb.co/25FPND6/1.jpg",
+            "https://i.ibb.co/C8T6ZkD/image.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://youtu.be/UD334WRM9uM?feature=shared",
+            "https://youtu.be/HOeLIe8Wc1w?feature=shared",
+            "https://youtu.be/SwUc5Kq6CzA?feature=shared"
         ],
         'texts': [
             "바둑돌멩이",
@@ -148,14 +148,14 @@ content_data = {
     },
       labels[4]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label1_Image1",
-            "https://via.placeholder.com/300?text=Label1_Image2",
-            "https://via.placeholder.com/300?text=Label1_Image3"
+            "https://i.ibb.co/nLZrTzf/image.jpg",
+            "https://i.ibb.co/pyC98jc/2.jpg",
+            "https://i.ibb.co/Bj6gw6v/1.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://youtu.be/CwfZXmlhN6c?feature=shared",
+            "https://youtu.be/xa7qWLkqbHY?feature=shared",
+            "https://youtu.be/G6XpUFOPONc?feature=shared"
         ],
         'texts': [
             "바둑돌멩이",
@@ -165,14 +165,14 @@ content_data = {
     },
       labels[5]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label1_Image1",
-            "https://via.placeholder.com/300?text=Label1_Image2",
-            "https://via.placeholder.com/300?text=Label1_Image3"
+            "https://i.ibb.co/72v5pF1/2.jpg",
+            "https://i.ibb.co/x255C5f/1.jpg",
+            "https://i.ibb.co/6JGQRh5/image.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://youtu.be/rVtLXMy8OSo?feature=shared",
+            "https://youtu.be/MCuh723Gmzg?feature=shared",
+            "https://youtu.be/gJpKobEit2M?feature=shared"
         ],
         'texts': [
             "바둑돌멩이",
