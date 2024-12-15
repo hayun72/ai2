@@ -28,10 +28,10 @@ def display_left_content(image, prediction, probs, labels):
     st.markdown("<h4>클래스별 확률:</h4>", unsafe_allow_html=True)
     for label, prob in zip(labels, probs):
         st.markdown(f"""
-            <div style="background-color: #f0f0f0; border-radius: 5px; padding: 5px; margin: 5px 0;">
+            <div style="background-color: #FBEFFB; border-radius: 5px; padding: 5px; margin: 5px 0;">
                 <strong style="color: #333;">{label}:</strong>
-                <div style="background-color: #d3d3d3; border-radius: 5px; width: 100%; padding: 2px;">
-                    <div style="background-color: #4CAF50; width: {prob*100}%; padding: 5px 0; border-radius: 5px; text-align: center; color: white;">
+                <div style="background-color: #FBEFFB; border-radius: 5px; width: 100%; padding: 2px;">
+                    <div style="background-color: #F781BE; width: {prob*100}%; padding: 5px 0; border-radius: 5px; text-align: center; color: white;">
                         {prob:.4f}
                     </div>
                 </div>
